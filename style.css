@@ -17,12 +17,12 @@ h1 {
 h2 {
   font-family: "Playfair Dispaly", Times, serif;
   text-align: center;
-  font-weight: 15px ;
 }
 
 h3 {
   font-family: "Playfair Display", Times, serif;
   text-align: center;
+  font-size: 15px
 }
 
 header {
@@ -39,14 +39,21 @@ article div {
 
 p {
   line-height: 1.5;
+  text-align: left;
 }
 
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
   width: 600px; 
-  
 }
+
+main {
+  max-width: 500px;
+  margin: auto;
+}
+  
+
 
 img {
   width: 100%;
@@ -89,6 +96,8 @@ title {
 a:link    { color: #d62828; }
 a:hover   { color: #f77f00; }
 
-
-a:link    { color: #d62828; }
-a:hover   { color: #f77f00; }
+footer {
+  max-width: 500px;
+  margin: auto;
+  
+}
