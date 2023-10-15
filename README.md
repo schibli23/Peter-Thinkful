@@ -12,7 +12,7 @@ This is an autobiography of Pete Thinkful; an artist from Denver, Colorado.
 - Authors
 
 # Resources
-![alt text]([http://url/to/im.png](https://github.com/schibli23/Peter-Thinkful/tree/master/images)
+![alt text](https://github.com/schibli23/Peter-Thinkful/tree/master/images)
 
 # Acknowledgments
 
