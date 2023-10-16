@@ -1,4 +1,4 @@
-# Peter-Thinkful
+# Pete-Thinkful
 Pete-Thinkful/Artist Autobiography
 
 This is an autobiography of Pete Thinkful; an artist from Denver, Colorado.
