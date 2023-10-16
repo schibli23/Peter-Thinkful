@@ -8,6 +8,10 @@ body {
   background-color: #eae2b7;
 }
 
+nav {
+  word-spacing: 15px;
+}
+
 /* Set the font family for any h1, h2, or h3 heading */
 h1 {
   font-family: 'Times New Roman', Times, serif;
@@ -52,7 +56,7 @@ main {
   max-width: 500px;
   margin: auto;
 }
-  
+
 
 
 img {
@@ -92,12 +96,11 @@ title {
   font-size: 25px;
 }
 
-
 a:link    { color: #d62828; }
 a:hover   { color: #f77f00; }
 
-footer {
+footer p{
   max-width: 500px;
   margin: auto;
-  
+  text-align: center;
 }
